@@ -62,14 +62,9 @@
 ---
 
 <p align="left">
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 </p>
 
@@ -89,8 +84,8 @@
 <hr/>
 
 <div align="center">
-  <a href='https://ko-fi.com/your-kofi-page' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
+<a href='https://ko-fi.com/your-kofi-page' target='_blank'><img height='40' style='border:0px;height:40px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Cat &#x1F431;'/></a>
+
 
 <br/>
 
@@ -100,8 +95,8 @@
     <th align="center">Languages</th>
   </tr>
   <tr>
-    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=Hoso_punk&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
-    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoso_punk&theme=gruvbox&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Hoso_punk" /></td>
+    <td><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com/?user=hurrainjhl&theme=gruvbox&hide_border=true&border_radius=32&date_format=j%20M%5B%20Y%5D&ring=888888"/></a></td>
+    <td><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hurrainjhl&theme=gruvbox&hide_border=true&show_icons=true&locale=en&layout=compact" alt="Hoso_punk" /></td>
   </tr>
 </table>
 
@@ -113,9 +108,9 @@
 
 <!-- GitHub Stats  & Top Lang -->
 <p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Hoso_punk&show_icons=true&theme=highcontrast&title_color=f10000&icon_color=f040983">
+  <img src = "https://github-readme-stats.vercel.app/api?username=hurrainjhl&show_icons=true&theme=highcontrast&title_color=f10000&icon_color=f040983">
   <br>
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Hoso_punk&theme=highcontrast&title_color=f10000&icon_color=f040983">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=hurrainjhl&theme=highcontrast&title_color=f10000&icon_color=f040983">
 </p>
 
 <hr/>
@@ -124,9 +119,9 @@
 
 <!-- CTF Stats Images -->
 <p align = "center">
-  <img src="assets/tryhackme.png" alt="TryHackMe">
-  <img src="assets/picoctf.png" alt="picoCTF">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Hoso.punk.png" alt="TryHackMe">
+<img src="https://picoctf.com/badges/individual_user/hurrln.png" alt="PicoCTF Badge">
+
 </p>
 
 <hr/>
-
