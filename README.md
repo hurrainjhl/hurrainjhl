@@ -120,7 +120,7 @@
 <!-- CTF Stats Images -->
 <p align = "center">
   <img src="https://tryhackme-badges.s3.amazonaws.com/Hoso.punk.png" alt="TryHackMe">
-<img src="https://picoctf.com/badges/individual_user/hurrln.png" alt="PicoCTF Badge">
+<img src="https://play.picoctf.org/users/hurrln/hurrln.png" alt="PicoCTF">
 
 </p>
 
