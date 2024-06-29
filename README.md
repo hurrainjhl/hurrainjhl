@@ -128,15 +128,15 @@ src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
   </a>
 </picture> 
   </a> 
- <!-- <a href="https://picoctf.org/" target="_blank" rel="noreferrer"> 
+<!--  <a href="https://picoctf.org/" target="_blank" rel="noreferrer"> 
     <picture> 
       <source media="(prefers-color-scheme: none)" srcset="undefined" /> 
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/picoctf.org" /> 
       <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/picoctf.org" width="32" height="32" /> 
 
 <!--  </a>
-  <a href="https://academy.hackthebox.com/my-badges" target="_blank">
-    <img src="https://app.hackthebox.com/profile/badges/hurrln.png" alt="Hack The Box">
+  <a href="https://app.hackthebox.com/hurrln" target="_blank">
+    <img src="https://academy.hackthebox.com/my-badges/hurrln.png" alt="Hack The Box">
   </a>
 </p>
 
