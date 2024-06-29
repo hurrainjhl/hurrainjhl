@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="centre" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=08878a&center=true&vCenter=true&random=false&lines=Hi+There!!;+Hoso_punk+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
