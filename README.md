@@ -121,16 +121,11 @@
 ---
 <h3 align="center">🐱 Here's my cat 🐱</h3>
 
-<pre>
-  <h1 align="center">
- /\_/\  
-( o.o ) 
- > ^ <
-
-</pre>
-
-<hr/>
-
+<p align="center">
+    <a href="http://aashisjha.com.np" target="_blank">
+        <img src="https://github.com/OracleBrain/OracleBrain/blob/main/wth-smile.gif?raw=true" width="120" height="120" alt="Description of the image">
+    </a>
+</p>
 <div align="center">
 <a href='https://ko-fi.com/your-kofi-page' target='_blank'><img height='40' style='border:0px;height:40px;'  
 src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
