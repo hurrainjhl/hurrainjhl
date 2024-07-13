@@ -163,7 +163,7 @@ src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
 <!-- CTF Stats Images -->
 <p align="center">
   <a href="https://tryhackme.com/p/Hoso.punk" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Hoso.punk.png" alt="TryHackMe">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/Hoso.punk.png" alt="TryHackMe">
   </a>
 </picture> 
   </a>
