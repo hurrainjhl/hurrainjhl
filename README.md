@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=08878a&center=true&vCenter=true&random=false&lines=Hi+There!!;+Hoso_punk+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
 </h1>
 
-<h3 align="left">
+<h3 align="center">
   Cybersecurity Student from <a href="https://au.edu.pk" style="text-decoration: none; color: inherit; font-weight: bold;">AU</a> 🇵🇰
 </h3>
 
