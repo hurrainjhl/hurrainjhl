@@ -1,4 +1,4 @@
-<img align="centre" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<img align="center" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=1200&pause=1500&color=08878a&center=true&vCenter=true&random=false&lines=Hi+There!!;+Hoso_punk+Here!!+%F0%9F%91%8B%F0%9F%8F%BD;" />
@@ -12,53 +12,46 @@
 
 <div align="left">
  
- 🔭 I’m currently working on **SIEM Solutions and Elasticsearch**
+ 🔭 I'm currently working on **SIEM Solutions and Elasticsearch**
 
- 🏫 I’m currently learning **how to be an expert in CTFs**
+ 🏫 I'm currently learning **how to be an expert in CTFs**
 
-💬 Ask me about **Python, C++, Cybersecurity**
+ 💬 Ask me about **Python, C++, Cybersecurity**
 
-⚡ Fun Fact: _**My cat can look cuter than me :|**_
+ ⚡ Fun Fact: _**My cat can look cuter than me :|**_
 
 </div>
  
 <div align="left"> 
-  <a href="mailto:your-hosopunk5@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  <a href="mailto:hosopunk5@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://your-portfolio.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5422?style=for-the-badge&logo=sqlite&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank" />
   </a>
-  <a href="https://your-blog.com" target="_blank">
-     <img src="https://img.shields.io/badge/Blogsite-0d7060?style=for-the-badge&logo=safari&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  <a href="https://app.cybrary.it/profile/BrownParrot6821" target="_blank">
+     <img src="https://img.shields.io/badge/Cybrary-FF7B00?style=for-the-badge&logo=bookstack&logoColor=white" target="_blank" />
   </a>
 </div>
 
-<p align="left"> 
-  <a href="https://www.github.com/Hoso_punk" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="http://www.instagram.com/_hoorulain_25" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: none)" srcset="undefined" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> 
-    </picture> 
-  </a> 
-  <a href="https://www.linkedin.com/in/hoor-ul-ein-soomro" target="_blank" rel="noreferrer"> 
-    <picture> 
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> 
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> 
-      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> 
-    </picture> 
+<hr/>
+
+<h2 align="center">Don't forget to connect with me</h2>
+
+<div align="center" style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <a href="https://www.github.com/Hoso_punk" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
   </a>
-</p>
+  <a href="https://www.linkedin.com/in/hoor-ul-ein-soomro-2425a12a0/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="https://medium.com/@hosopunk5" target="_blank">
+    <img src="https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&labelColor=12100E" alt="Medium"/>
+  </a>
+</div>
 
 <hr/>
+
 <h3 align="left">ToolBox</h3>
 
 ---
@@ -162,14 +155,15 @@ src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
 
 <!-- CTF Stats Images -->
 <p align="center">
+  <!-- TryHackMe Badge -->
   <a href="https://tryhackme.com/p/Hoso.punk" target="_blank">
-   <img src="https://tryhackme-badges.s3.amazonaws.com/Hoso.punk.png" alt="TryHackMe">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/Hoso.punk.png" alt="TryHackMe">
   </a>
-</picture> 
-  </a>
-  <a href="https://app.hackthebox.com/hurrln" target="_blank">
-     <img src = "https://www.hackthebox.com/badge/image/1997415">
+  
+  <!-- HackTheBox Badge -->
+  <a href="https://app.hackthebox.com/profile/1997415" target="_blank">
+    <img src="https://www.hackthebox.com/badge/image/1997415" alt="HackTheBox">
   </a>
 </p>
 
-<hr/> 
+<hr/>
