@@ -12,7 +12,7 @@
 
 <div align="left">
  
- 🔭 I'm currently working on **CyberScurity Experties**
+ 🔭 I'm currently working on **CyberSecurity Experties**
 
  🏫 I'm currently learning **how to be an expert in CTFs**
 
