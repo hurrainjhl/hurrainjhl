@@ -153,14 +153,20 @@ src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
 <h2 align="center">🚩 My CTF Stats</h2>
 
 <p align="center">
-  <!-- TryHackMe Badge -->
   <a href="https://tryhackme.com/p/Hoso.punk" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/Hoso.punk.png" alt="TryHackMe" height="100" />
+    <img
+      src="https://tryhackme-badges.s3.amazonaws.com/Hoso.punk.png?cachebust=20250614"
+      alt="TryHackMe Badge"
+      height="100"
+    />
   </a>
+</p>
+
+
   
   <!-- HackTheBox Badge -->
   <a href="https://app.hackthebox.com/profile/1997415" target="_blank">
-    <img src="https://www.hackthebox.com/badge/image/1997415" alt="HackTheBox" height="100" />
+    <img src="https://www.hackthebox.com/badge/image/1997415" alt="HackTheBox"  height="90"/>
   </a>
 </p>
 
