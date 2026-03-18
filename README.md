@@ -1,19 +1,10 @@
 ![coding](./coding.gif)
 <table align="center">
   <tr>
-    <td> <i>“Hack the system, not the people. Build tools that reveal the truth, protect the innocent, and keep the digital world honest.”</i></td>
+    <td> <i>“Exploit code, not people."</i></td>
     <td><img src="./hacker-typing.gif" alt="hacker typing" height="70" width="70" /></td>
   </tr>
 </table>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/hurrainjhl/hurrainjhl/blob/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/hurrainjhl/hurrainjhl/blob/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://github.com/hurrainjhl/hurrainjhl/blob/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&center=true&vCenter=true&lines=Hi,+I'm+HOSO_punk;Cybersecurity+Student;Malware+Researcher+%7C+Tool+Developer;Offensive+Security+Enthusiast" />
