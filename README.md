@@ -10,22 +10,23 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=Hi,+I'm+HOSO_punk;Cybersecurity+Student;Malware+Researcher+%7C+Tool+Developer;Offensive+Security+Enthusiast" />
 </div>
 
+<!-- About Me + Cyber GIF Side by Side -->
 <div style="display: flex; align-items: center; flex-wrap: wrap; gap: 20px; justify-content: center; margin: 20px 0;">
   
-  <!-- About Me Section -->
-<div align="left" style="font-family: 'Courier New', monospace; color: #e6edf3; background: #0d1117; border: 2px solid #08878a; border-radius: 12px; padding: 25px; margin: 20px 0; max-width: 800px; box-shadow: 0 0 20px rgba(8,135,138,0.4);">
-  <h3 style="color: #08878a; margin-top: 0;">_ ⊹。°˖➴ABOUT.MEE⋆♡⸝⸝💌 </h3>
+  <!-- About Me Card -->
+  <div style="font-family: 'Courier New', monospace; color: #e6edf3; background: #0d1117; border: 2px solid #08878a; border-radius: 12px; padding: 25px; max-width: 500px; flex: 1 1 400px; box-shadow: 0 0 20px rgba(8,135,138,0.4);">
+    <h3 style="color: #08878a; margin-top: 0;">_ ⊹。°˖➴ ABOUT.MEE ⋆♡⸝⸝💌</h3>
+    <p>* I’m currently working on <strong>AI-Enhanced Forensic Analysis</strong> and building cybersecurity tools.</p>
+    <p>* I’m currently learning <strong>advanced CTF techniques, malware reverse engineering, and incident response.</strong></p>
+    <p>* I’m looking to collaborate with <strong>Cybersecurity Enthusiasts, CTF players, and Forensic Researchers.</strong></p>
+    <p>* I use <strong>Kali Linux, Athena OS, and custom sandboxes</strong> for my lab environment.</p>
+    <p>* I’m working on <strong>CTF writeups and sharing knowledge</strong> through my blog (coming soon).</p>
+    <p>⚡ Fun fact: <strong>cat.exe runs my workstation – I just feed it treats.</strong></p>
+  </div>
   
-  <p>* I’m currently working on <strong>AI-Enhanced Forensic Analysis</strong> and building cybersecurity tools.</p>
-  <p>* I’m currently learning <strong>advanced CTF techniques, malware reverse engineering, and incident response.</strong></p>
-  <p>* I’m looking to collaborate with <strong>Cybersecurity Enthusiasts, CTF players, and Forensic Researchers.</strong></p>
-  <p>* I use <strong>Kali Linux, Athena OS, and custom sandboxes</strong> for my lab environment.</p>
-  <p>* I’m working on <strong>CTF writeups and sharing knowledge</strong> through my blog (coming soon).</p>
-  <p> Fun fact: <strong>cat.exe runs my workstation – I just feed it treats.</strong></p>
-</div>
   <!-- Right: Cyber GIF -->
   <div style="flex: 0 0 auto;">
-    <img src="./cyber-typing.gif" alt="Cyber typing animation" style="border-radius: 10px; max-width: 200px; height: auto; border: 2px solid #08878a; box-shadow: 0 0 15px rgba(8,135,138,0.5);">
+    <img src="./fbzvnitlk0iyc9w2l6sn.gif" alt="Cyber typing animation" style="border-radius: 10px; max-width: 200px; height: auto; border: 2px solid #08878a; box-shadow: 0 0 15px rgba(8,135,138,0.5);">
   </div>
   
 </div>
@@ -91,11 +92,10 @@
 
 <hr/>
 
+<!-- Featured Projects -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&center=true&vCenter=true&lines=Featured+Projects" alt="Featured Projects" />
-  
-  <br>
-  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=Featured+Projects" alt="Featured Projects" />
+  <br><br>
   <p align="center">
     <a href="https://github.com/hurrainjhl/ThreadSleuth">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=ThreadSleuth&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
@@ -104,7 +104,6 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=KnockGate&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
     </a>
   </p>
-
   <p align="center">
     <a href="https://github.com/hurrainjhl/RedHawkX">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=RedHawkX&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
@@ -113,7 +112,6 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=Payload_Generator&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
     </a>
   </p>
-
   <p align="center">
     <a href="https://github.com/hurrainjhl/ELK-Stack">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=ELK-Stack&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
@@ -124,17 +122,12 @@
   </p>
 </div>
 
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=Interests"/>
-</div>
-
-
 <hr/>
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=Here+is+My+Cato" alt="Here is My Cato - Typing Animation" />
-</div>
 
+<!-- My Cat Section -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=Here+is+My+Cat" alt="Here is My Cat" />
+</div>
 
 <p align="center">
   <a href="http://aashisjha.com.np" target="_blank">
@@ -150,6 +143,7 @@
 
 <br/>
 
+<!-- GitHub Stats -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=My+GitHub+Stats" alt="My GitHub Stats" />
 </div>
