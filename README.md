@@ -186,3 +186,30 @@
 </p>
 
 <hr/>
+
+<!-- Welcome Animated Text --> 
+<h1 align="center">   
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things.;Self+Study.;Code.++Debug.++Repeat.;Forensics+Enthusiast.;AI+Security+Explorer." alt="Welcome Typing Animation"/> 
+</h1>  
+
+<h3 align="center">
+     You are my &nbsp;&nbsp;&nbsp;
+    <a href="https://github.com/hurrainjhl">
+        <img src="https://count.getloli.com/@hurrainjhl?theme=" alt="hurrainjhl visits"  />
+    </a>
+    &nbsp;&nbsp;&nbsp;guest. 
+    Thank You 
+</h3>
+
+<hr />
+
+<div align="center">
+    <img
+      src="https://github-trophies.vercel.app/?username=hurrainjhl&theme=discord&no-frame=true&no-bg=true&margin-w=4"
+      alt="GitHub Trophies"
+    />
+</div>
+
+<p align="left">
+    <img src="https://komarev.com/ghpvc/?username=hurrainjhl&label=Profile%20views&color=0e75b6&style=flat" alt="hurrainjhl" />
+</p>
