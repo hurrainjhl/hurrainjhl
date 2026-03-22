@@ -21,7 +21,7 @@
     <p>* I’m looking to collaborate with <strong>Cybersecurity Enthusiasts, CTF players, and Forensic Researchers.</strong></p>
     <p>* I use <strong>Kali Linux, Athena OS, and custom sandboxes</strong> for my lab environment.</p>
     <p>* I’m working on <strong>CTF writeups and sharing knowledge</strong> through my blog (coming soon).</p>
-    <p>⚡ Fun fact: <strong>cat.exe runs my workstation – I just feed it treats.</strong></p>
+    <p>**Fun fact: <strong>cat.exe runs my workstation – I just feed it treats.</strong></p>
   </div>
   
   <!-- Right: Cyber GIF -->
