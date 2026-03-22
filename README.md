@@ -189,16 +189,16 @@
 
 <!-- Welcome Animated Text --> 
 <h1 align="center">   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things.;Self+Study.;Code.++Debug.++Repeat.;Forensics+Enthusiast.;AI+Security+Explorer." alt="Welcome Typing Animation"/> 
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=08878a&center=true&vCenter=true&width=435&lines=Always+Learning+New+Things.;Self+Study.;Code.++Debug.++Repeat.;Forensics+Enthusiast.;AI+Security+Explorer." alt="Welcome Typing Animation"/> 
 </h1>  
 
 <h3 align="center">
      You are my &nbsp;&nbsp;&nbsp;
     <a href="https://github.com/hurrainjhl">
-        <img src="https://count.getloli.com/@hurrainjhl?theme=" alt="hurrainjhl visits"  />
+        <img src="https://count.getloli.com/@hurrainjhl?theme=asoul" alt="hurrainjhl visits" />
     </a>
     &nbsp;&nbsp;&nbsp;guest. 
-    Thank You 
+    Thank You.
 </h3>
 
 <hr />
@@ -211,5 +211,9 @@
 </div>
 
 <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=hurrainjhl&label=Profile%20views&color=0e75b6&style=flat" alt="hurrainjhl" />
+    <img src="https://komarev.com/ghpvc/?username=hurrainjhl&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+    &nbsp;&nbsp;
+    <a href="https://github.com/hurrainjhl?tab=followers">
+        <img src="https://img.shields.io/github/followers/hurrainjhl?style=flat&logo=github&label=Followers" alt="GitHub followers" />
+    </a>
 </p>
