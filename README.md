@@ -96,28 +96,31 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&pause=1000&color=08878a&lines=Featured+Projects" alt="Featured Projects" />
   <br><br>
+
   <p align="center">
     <a href="https://github.com/hurrainjhl/ThreadSleuth">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=ThreadSleuth&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+      <img src="https://github-readme-stats.anuraghazra.vercel.app/api/pin/?username=hurrainjhl&repo=ThreadSleuth&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="ThreadSleuth" />
     </a>
     <a href="https://github.com/hurrainjhl/KnockGate">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=KnockGate&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+      <img src="https://github-readme-stats.anuraghazra.vercel.app/api/pin/?username=hurrainjhl&repo=KnockGate&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="KnockGate" />
     </a>
   </p>
+
   <p align="center">
     <a href="https://github.com/hurrainjhl/RedHawkX">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=RedHawkX&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+      <img src="https://github-readme-stats.anuraghazra.vercel.app/api/pin/?username=hurrainjhl&repo=RedHawkX&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="RedHawkX" />
     </a>
     <a href="https://github.com/hurrainjhl/Payload_Generator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=Payload_Generator&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+      <img src="https://github-readme-stats.anuraghazra.vercel.app/api/pin/?username=hurrainjhl&repo=Payload_Generator&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="Payload_Generator" />
     </a>
   </p>
+
   <p align="center">
     <a href="https://github.com/hurrainjhl/ELK-Stack">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=ELK-Stack&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+      <img src="https://github-readme-stats.anuraghazra.vercel.app/api/pin/?username=hurrainjhl&repo=ELK-Stack&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="ELK-Stack" />
     </a>
     <a href="https://github.com/hurrainjhl/Keylogger">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=hurrainjhl&repo=Keylogger&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px"/>
+      <img src="https://github-readme-stats.anuraghazra.vercel.app/api/pin/?username=hurrainjhl&repo=Keylogger&theme=tokyonight&bg_color=0d1117&title_color=08878a&text_color=70a5fd&icon_color=bf91f3" width="350px" height="130px" alt="Keylogger" />
     </a>
   </p>
 </div>
